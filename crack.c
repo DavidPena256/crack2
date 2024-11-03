@@ -75,4 +75,3 @@ int main(int argc, char *argv[])
     fclose(dicFile);
     printf("%d hashes cracked!\n", count);
 }
-
